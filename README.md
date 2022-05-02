@@ -24,5 +24,5 @@ From the csv files related to Pewlett-Hackard employees, the analysis was able t
     - Assistant Engineer: 48
 
 ## Summary
-There is definitely an upcoming "silver tsunami" at Pewlett-Hackard.  There are a total of 72,458 positions that may need to be filled in the very near future, if not already.  Fortunately, there are also 1,549 employees who are not yet retired that can mentor new employees before they retire.  This way, decades of knowledge and experience can be passed down to younger generations of Pewlett Hackard employees before all employees eligible to retire actually retire.
+There is definitely an upcoming "silver tsunami" at Pewlett-Hackard.  There are a total of 72,458 positions that may need to be filled in the very near future.  Fortunately, there are also 1,549 employees who are not yet retired that can mentor new employees before they retire.  This way, decades of knowledge and experience can be passed down to younger generations of Pewlett Hackard employees before all employees eligible to retire actually retire.
  
