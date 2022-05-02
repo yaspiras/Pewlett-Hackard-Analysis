@@ -14,7 +14,7 @@ From the csv files related to Pewlett-Hackard employees, the analysis was able t
    - Technique Leader: 3,603
    - Assitant Engineer: 1,090
    - Manager: 2
-- 1,549 employees are eligible for the mentorship program.
+- Of the 72,458 employees that may be retiring, 1,549 employees are eligible for the mentorship program.
 - Mentorship Eligibility broken down by title:
     - Staff: 450
     - Senior Engineer: 395
